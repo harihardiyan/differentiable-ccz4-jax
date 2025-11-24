@@ -1,0 +1,8 @@
+jax[cuda12]
+# atau kalau CPU only:
+# jax[cpu]
+
+# opsional tapi recommended
+matplotlib
+optax
+numpy
