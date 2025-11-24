@@ -1,5 +1,18 @@
 # Machine Discovery of the Universal Stability Parameters in CCZ4
 
+# Machine Discovery of the Universal Stability Parameters in CCZ4
+
+<div align="center">
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17704094.svg)](https://doi.org/10.5281/zenodo.17704094)  
+**Zenodo Archive • DOI: 10.5281/zenodo.17704094**  
+*(Permanent archival • citable • version of record)*
+
+</div>
+
+<br>
+
+This is the **first fully differentiable** implementation of the CCZ4 formulation of Einstein’s equations…
 This is the **first fully differentiable implementation** of the CCZ4 formulation of Einstein’s equations, built entirely in **JAX** with automatic differentiation (autodiff).
 
 The system allows **gradient descent to automatically discover** the universal stability parameters (κ₁, κ₂, η) that were previously found only by decades of expert hand-tuning.
