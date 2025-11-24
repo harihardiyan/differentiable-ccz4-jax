@@ -80,4 +80,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+<div align="center">
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17704094.svg)](https://doi.org/10.5281/zenodo.17704094)  
+**Zenodo Archive • DOI: 10.5281/zenodo.17704094**  
+*(Permanent archival • citable • version of record)*
+
+<br><br>
+
+<br>
+
+**Contact & Collaboration**  
+Email:  ` lorozloraz@gmail.com` (preferred)  
+X/Twitter: [@haritedjamantri](https://x.com/haritedjamantri)  
+DMs open • Looking for collaborators (xAI, DeepMind, numerical relativity groups, differentiable physics)
+
+<br>
+
+*“Einstein’s equations just learned gradient descent. Let’s talk.”*
+
+</div>
+
+<br>
