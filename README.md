@@ -59,27 +59,31 @@ This is the first time in history that Einstein’s equations have been made tra
 ### 3. `LICENSE` (MIT — standard)
 
 ```txt
-MIT License
-
 Copyright (c) 2025 Hari Hardiyan
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software is released under a dual license. You may choose one of the following options:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Personal / Non-Commercial License
+   You are free to use, copy, modify, merge, publish, distribute, and sublicense
+   this software for non-commercial and personal purposes without any additional
+   permission.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Commercial License
+   If you wish to use this software in a commercial product or service
+   (including but not limited to selling it, bundling it in a paid application,
+   or using it in a business environment for profit), you must do ONE of the following:
+
+   a) Obtain explicit written permission from Hari Hardiyan
+       (contact: [insert your email or contact info here]), or
+   b) Clearly display the following credit in your product, documentation,
+       website, or about/credits section:
+       "Contains code © 2025 Hari Hardiyan"
+       or
+       "Includes work by Hari Hardiyan (2025)"
+
+   Failure to comply with one of these two requirements makes any commercial use
+   a violation of copyright.
 ```
 <div align="center">
 
